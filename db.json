@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Robert",
+      "title": "React Mvc Pattern",
+      "text": "Managing components is now easier with MVC architecture"
+    },
+    {
+      "id": 2,
+      "user": "John",
+      "title": "MVVM Pattern",
+      "text": "It is easier to manage the project in this pattern"
+    },
+    {
+      "id": 3,
+      "user": "Alice",
+      "title": "Angular Framework",
+      "text": "Exploring the features of Angular for web development"
+    },
+    {
+      "id": 4,
+      "user": "Eva",
+      "title": "Python Data Analysis",
+      "text": "Analyzing large datasets using Python libraries"
+    },
+    {
+      "id": 5,
+      "user": "Michael",
+      "title": "Mobile App Development",
+      "text": "Tips and tricks for building responsive mobile apps"
+    },
+    {
+      "id": 6,
+      "user": "Sophia",
+      "title": "Machine Learning Basics",
+      "text": "Introduction to machine learning algorithms and concepts"
+    },
+    {
+      "id": 7,
+      "user": "David",
+      "title": "Cloud Computing",
+      "text": "Harnessing the power of cloud platforms for scalable solutions"
+    },
+    {
+      "id": 8,
+      "user": "Emma",
+      "title": "Web Security Best Practices",
+      "text": "Securing web applications against common vulnerabilities"
+    },
+    {
+      "id": 9,
+      "user": "Liam",
+      "title": "Java Programming",
+      "text": "Mastering object-oriented programming with Java"
+    },
+    {
+      "id": 10,
+      "user": "Olivia",
+      "title": "UI/UX Design Principles",
+      "text": "Creating intuitive and visually appealing user interfaces"
+    },
+    {
+      "id": 11,
+      "user": "William",
+      "title": "Data Structures and Algorithms",
+      "text": "Understanding fundamental data structures and algorithmic techniques"
+    },
+    {
+      "id": 12,
+      "user": "Ava",
+      "title": "Cybersecurity Fundamentals",
+      "text": "Protecting digital assets from cyber threats and attacks"
+    },
+    {
+      "id": 13,
+      "user": "James",
+      "title": "IoT Development",
+      "text": "Building applications for the Internet of Things ecosystem"
+    },
+    {
+      "id": 14,
+      "user": "Charlotte",
+      "title": "Version Control with Git",
+      "text": "Efficiently managing codebase with Git version control"
+    },
+    {
+      "id": 15,
+      "user": "Benjamin",
+      "title": "Databases and SQL",
+      "text": "Working with relational databases and writing SQL queries"
+    },
+    {
+      "id": 16,
+      "user": "Amelia",
+      "title": "Game Development Basics",
+      "text": "Introduction to game development tools and techniques"
+    },
+    {
+      "id": 17,
+      "user": "Lucas",
+      "title": "Responsive Web Design",
+      "text": "Creating websites that adapt to various devices and screen sizes"
+    },
+    {
+      "id": 18,
+      "user": "Mia",
+      "title": "Artificial Intelligence in Business",
+      "text": "Applications of AI for optimizing business processes"
+    },
+    {
+      "id": 19,
+      "user": "Henry",
+      "title": "Blockchain Technology",
+      "text": "Understanding the principles behind blockchain and cryptocurrencies"
+    },
+    {
+      "id": 20,
+      "user": "Evelyn",
+      "title": "Web Accessibility",
+      "text": "Designing websites and web applications for all users, including those with disabilities"
+    },
+    {
+      "id": 1698396711107,
+      "user": "cimen",
+      "title": "head",
+      "text": "ajsgkasjalsk"
+    }
+  ]
+}
